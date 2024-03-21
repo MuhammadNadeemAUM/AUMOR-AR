@@ -24,7 +24,7 @@ class _MyAppState extends State<MyApp> {
   Future<List<AnnotationsModel>> getAnnotations() async {
     try {
       var url =
-          "https://raw.githubusercontent.com/TahirHafeez/ar/main/annotations.json";
+          "https://github.com/MuhammadNadeemAUM/ARapp/tree/main/Pdfdocuments/annotations.json";
       http.Response response = await http.get(Uri.parse(url));
       var data = jsonDecode(response.body.toString());
       if (response.statusCode == 200) {
