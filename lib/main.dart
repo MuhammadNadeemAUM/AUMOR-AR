@@ -27,6 +27,7 @@ class _MyAppState extends State<MyApp> {
           "https://github.com/MuhammadNadeemAUM/ARapp/tree/main/Pdfdocuments/annotations.json";
       http.Response response = await http.get(Uri.parse(url));
       var data = jsonDecode(response.body.toString());
+	  print('Json file is read');
       if (response.statusCode == 200) {
         log(data.toString());
         List<AnnotationsModel> fetchedAnnotations = [];
@@ -123,10 +124,12 @@ class _MyAppState extends State<MyApp> {
     switch (name) {
       case 'Library':
         return AnnotationType.Library;
+		print('Libray');
       case 'Cafeteria':
         return AnnotationType.Cafeteria;
       case 'Admin':
         return AnnotationType.Admin;
+		print('MYHOME');
       default:
         return AnnotationType.Library;
     }
