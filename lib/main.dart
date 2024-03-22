@@ -20,10 +20,10 @@ class MyApp extends StatefulWidget {
 
 class _MyAppState extends State<MyApp> {
   List<Annotation> annotations = [];
-	print('READING READING');
+	
   Future<List<AnnotationsModel>> getAnnotations() async {
     try {
-	
+		print('READING READING');
       var url =
           "https://github.com/MuhammadNadeemAUM/ARapp/tree/main/Pdfdocuments/annotations.json";
       http.Response response = await http.get(Uri.parse(url));
