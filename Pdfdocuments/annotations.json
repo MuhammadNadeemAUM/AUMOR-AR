@@ -1,8 +1,8 @@
 [
   {
     "AnnotationType": "Library",
-    "latitude": 29.172427289483217,  
-    "longitude": 48.11106924276119,
+    "latitude": 29.2820125,   
+    "longitude": 47.9933868,
     "video_link": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
     "pdf_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
   },
@@ -11,13 +11,13 @@
     "latitude": 29.17651286079335, 
     "longitude": 48.109661803041234,
     "video_link": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4",
-    "pdf_link": "https://github.com/MuhammadNadeemAUM/ARapp/tree/main/Pdfdocuments/Sports_Centre.pdf"
+    "pdf_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
   },
   {
     "AnnotationType": "Cafeteria",
-    "latitude": 29.174489443020434, 
-    "longitude": 48.11097072100967, 
+    "latitude": 29.2825170, 
+    "longitude": 47.9905322, 
     "video_link": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
-    "pdf_link": "https://github.com/MuhammadNadeemAUM/ARapp/tree/main/Pdfdocuments/Sports_Centre.pdf"
+    "pdf_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
   }
 ]

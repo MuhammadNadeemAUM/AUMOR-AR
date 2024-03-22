@@ -24,11 +24,10 @@ class _MyAppState extends State<MyApp> {
   Future<List<AnnotationsModel>> getAnnotations() async {
     try {
 		print('READING READING');
-      var url =
-          "https://github.com/MuhammadNadeemAUM/ARapp/tree/main/Pdfdocuments/annotations.json";
+      var url = "https://raw.githubusercontent.com/MuhammadNadeemAUM/ARapp/main/Pdfdocuments/annotations.json";
       http.Response response = await http.get(Uri.parse(url));
       var data = jsonDecode(response.body.toString());
-	  print('Json file is read');
+	  print('READING READING READING');
       if (response.statusCode == 200) {
         log(data.toString());
         List<AnnotationsModel> fetchedAnnotations = [];
@@ -122,6 +121,7 @@ class _MyAppState extends State<MyApp> {
   }
 
   AnnotationType annotationTypeFromString(String name) {
+	
     switch (name) {
       case 'Library':
         return AnnotationType.Library;
