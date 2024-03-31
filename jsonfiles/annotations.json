@@ -1,11 +1,11 @@
 [
   {
-    "AnnotationType": "Option1",
-    "latitude": 31.40854975180366,  
-    "longitude": 74.21632108315742,
+    "AnnotationType": "Library",
+    "latitude": 29.163695277220807, 
+    "longitude": 48.097903345961996,
     "video_link": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-    "pdf_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
-    "website_url": "https://github.com/MuhammadNadeemAUM/ARapp/tree/main/Pdfdocuments/Sports_Centre.pdf",
+    "pdf_link": "https://drive.google.com/drive/folders/19Jgmk2FHfGpegRjSSZbBSzJo2nxnQqZU",
+    "website_url": "https://library.aum.edu.kw/about-us/",
     "map_url": "https://github.com/MuhammadNadeemAUM/ARapp/tree/main/Pdfdocuments/Sports_Centre.pdf",
     "booking_url": "https://github.com/MuhammadNadeemAUM/ARapp/tree/main/Pdfdocuments/Sports_Centre.pdf"
   },
