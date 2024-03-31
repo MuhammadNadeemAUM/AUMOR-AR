@@ -10,12 +10,12 @@
     "booking_url": "https://mrr.aum.edu.kw/booked/Web/?"
   },
   {
-    "AnnotationType": "Option2",
-    "latitude": 31.41601875181408, 
-    "longitude": 74.2181591384219,
+    "AnnotationType": "Sports",
+    "latitude": 29.164330992151527, 
+    "longitude": 48.09828983655695,
     "video_link": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4",
-    "pdf_link": "https://github.com/MuhammadNadeemAUM/ARapp/tree/main/Pdfdocuments/Sports_Centre.pdf",
-    "website_url": "https://github.com/MuhammadNadeemAUM/ARapp/tree/main/Pdfdocuments/Sports_Centre.pdf",
+    "pdf_link": "https://github.com/MuhammadNadeemAUM/ARapp/blob/main/Pdfdocuments/Sports_Centre.pdf",
+    "website_url": "https://www.aum.edu.kw/english/campus-life/athletics-sports-center",
     "map_url": "https://github.com/MuhammadNadeemAUM/ARapp/tree/main/Pdfdocuments/Sports_Centre.pdf",
     "booking_url": "https://github.com/MuhammadNadeemAUM/ARapp/tree/main/Pdfdocuments/Sports_Centre.pdf"
   },
