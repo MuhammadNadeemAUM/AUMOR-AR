@@ -51,4 +51,26 @@
     "map_url": "https://github.com/MuhammadNadeemAUM/ARapp/blob/main/Pdfdocuments/ResearchAndInnovation.jpg",
     "booking_url": "https://www.aum.edu.kw/english/innovation-amp-research/highlights-and-achievements"
   }
+  ,
+  {
+    "AnnotationType": "EngineeringE1",
+    "latitude": 29.164498954344406, 
+    "longitude": 48.10033144044795, 
+    "video_link": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+    "pdf_link": "https://github.com/MuhammadNadeemAUM/ARapp/blob/main/Pdfdocuments/E2Labs.pdf",
+    "website_url": "https://www.aum.edu.kw/english/academics/college-of-engineering-and-technology",
+    "map_url": "https://github.com/MuhammadNadeemAUM/ARapp/blob/main/Pdfdocuments/ResearchAndInnovation.jpg",
+    "booking_url": "https://www.aum.edu.kw/english/innovation-amp-research/highlights-and-achievements"
+  }
+  ,
+  {
+    "AnnotationType": "Business",
+    "latitude": 29.16265854076925, 
+    "longitude": 48.09859864412184, 
+    "video_link": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+    "pdf_link": "https://github.com/MuhammadNadeemAUM/ARapp/blob/main/Pdfdocuments/E2Labs.pdf",
+    "website_url": "https://www.aum.edu.kw/english/academics/college-of-business-administration",
+    "map_url": "https://github.com/MuhammadNadeemAUM/ARapp/blob/main/Pdfdocuments/ResearchAndInnovation.jpg",
+    "booking_url": "https://www.aum.edu.kw/english/innovation-amp-research/highlights-and-achievements"
+  }
 ]
