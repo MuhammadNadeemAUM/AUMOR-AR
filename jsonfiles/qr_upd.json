@@ -1,6 +1,6 @@
 [
   {
-    "QRType": "Option1",
+    "QRType": "Staff",
     "video_link": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
     "pdf_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
     "website_url": "https://github.com/MuhammadNadeemAUM/ARapp/tree/main/Pdfdocuments/Sports_Centre.pdf",
@@ -8,19 +8,19 @@
     "booking_url": "https://github.com/MuhammadNadeemAUM/ARapp/tree/main/Pdfdocuments/Sports_Centre.pdf"
   },
   {
-    "QRType": "Option2",
+    "QRType": "DrNadeem",
     "video_link": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4",
-    "pdf_link": "https://github.com/MuhammadNadeemAUM/ARapp/tree/main/Pdfdocuments/Sports_Centre.pdf",
-    "website_url": "https://github.com/MuhammadNadeemAUM/ARapp/tree/main/Pdfdocuments/Sports_Centre.pdf",
+    "pdf_link": "https://github.com/MuhammadNadeemAUM/ARapp/blob/main/Pdfdocuments/SmartDietDiary.pdf",
+    "website_url": "https://kw.linkedin.com/in/dr-muhammad-nadeem-b3139613",
     "map_url": "https://github.com/MuhammadNadeemAUM/ARapp/tree/main/Pdfdocuments/Sports_Centre.pdf",
     "booking_url": "https://github.com/MuhammadNadeemAUM/ARapp/tree/main/Pdfdocuments/Sports_Centre.pdf"
   },
   {
-    "QRType": "Option3",
+    "QRType": "Oscilloscope",
     "video_link": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
-    "pdf_link": "https://github.com/MuhammadNadeemAUM/ARapp/tree/main/Pdfdocuments/Sports_Centre.pdf",
-    "website_url": "https://github.com/MuhammadNadeemAUM/ARapp/tree/main/Pdfdocuments/Sports_Centre.pdf",
-    "map_url": "https://github.com/MuhammadNadeemAUM/ARapp/tree/main/Pdfdocuments/Sports_Centre.pdf",
+    "pdf_link": "https://github.com/MuhammadNadeemAUM/ARapp/blob/main/Pdfdocuments/Oscilloscope-User-Manual.pdf",
+    "website_url": "https://www.tek.com/en/products/oscilloscopes/tps2000",
+    "map_url": "https://github.com/MuhammadNadeemAUM/ARapp/blob/main/Pdfdocuments/Oscilloscopefigure.jpg",
     "booking_url": "https://github.com/MuhammadNadeemAUM/ARapp/tree/main/Pdfdocuments/Sports_Centre.pdf"
   },
   {
