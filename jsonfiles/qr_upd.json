@@ -32,11 +32,11 @@
     "booking_url": "https://github.com/MuhammadNadeemAUM/ARapp/tree/main/Pdfdocuments/Sports_Centre.pdf"
   },
   {
-    "QRType": "Option5",
+    "QRType": "Arduino Mega",
     "video_link": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4",
-    "pdf_link": "https://github.com/MuhammadNadeemAUM/ARapp/tree/main/Pdfdocuments/Sports_Centre.pdf",
-    "website_url": "https://github.com/MuhammadNadeemAUM/ARapp/tree/main/Pdfdocuments/Sports_Centre.pdf",
-    "map_url": "https://github.com/MuhammadNadeemAUM/ARapp/tree/main/Pdfdocuments/Sports_Centre.pdf",
+    "pdf_link": "https://github.com/MuhammadNadeemAUM/ARapp/blob/main/Pdfdocuments/Arduinodatasheet.pdf",
+    "website_url": "https://docs.arduino.cc/hardware/mega-2560/",
+    "map_url": "https://github.com/MuhammadNadeemAUM/ARapp/blob/main/Pdfdocuments/ArduinoSchmatic.jpg",
     "booking_url": "https://github.com/MuhammadNadeemAUM/ARapp/tree/main/Pdfdocuments/Sports_Centre.pdf"
   },
   {
