@@ -24,11 +24,11 @@
     "booking_url": "https://github.com/MuhammadNadeemAUM/ARapp/tree/main/Pdfdocuments/Sports_Centre.pdf"
   },
   {
-    "QRType": "Option4",
+    "QRType": "PepperRobot",
     "video_link": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-    "pdf_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
-    "website_url": "https://github.com/MuhammadNadeemAUM/ARapp/tree/main/Pdfdocuments/Sports_Centre.pdf",
-    "map_url": "https://github.com/MuhammadNadeemAUM/ARapp/tree/main/Pdfdocuments/Sports_Centre.pdf",
+    "pdf_link": "https://github.com/MuhammadNadeemAUM/ARapp/blob/main/Pdfdocuments/PepperUserGuide.pdf",
+    "website_url": "https://us.softbankrobotics.com/pepper",
+    "map_url": "https://github.com/MuhammadNadeemAUM/ARapp/blob/main/Pdfdocuments/pepper_robot.jpg",
     "booking_url": "https://github.com/MuhammadNadeemAUM/ARapp/tree/main/Pdfdocuments/Sports_Centre.pdf"
   },
   {
