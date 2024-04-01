@@ -21,8 +21,8 @@
   },
   {
     "AnnotationType": "Admin",
-    "latitude": 29.16491331501023, 
-    "longitude": 48.10097583858635, 
+    "latitude": 29.165673345047725,  
+    "longitude": 48.10007670807514, 
     "video_link": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
     "pdf_link": "https://github.com/MuhammadNadeemAUM/ARapp/blob/main/Pdfdocuments/Administration.pdf",
     "website_url": "https://www.aum.edu.kw/english/about-aum/governance-and-administration",
@@ -112,9 +112,9 @@
     "latitude": 29.165031709109385, 
     "longitude": 48.10021334276605, 
     "video_link": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
-    "pdf_link": "https://github.com/MuhammadNadeemAUM/ARapp/blob/main/Pdfdocuments/Cultural%20Center.pdf",
+    "pdf_link": "https://github.com/MuhammadNadeemAUM/ARapp/blob/main/Pdfdocuments/Student%20Affairs.pdf",
     "website_url": "https://www.aum.edu.kw/english/students-affairs",
     "map_url": "https://github.com/MuhammadNadeemAUM/ARapp/blob/main/Pdfdocuments/Capstone.jpg",
-    "booking_url": "https://www.aum.edu.kw/english/cultural-center/contact"
+    "booking_url": "https://www.aum.edu.kw/english/students-affairs-overview/contact-us"
   }
 ]
