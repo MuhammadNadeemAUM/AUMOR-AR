@@ -161,4 +161,15 @@
     "map_url": "https://github.com/MuhammadNadeemAUM/ARapp/blob/main/Pdfdocuments/Robots.jpg",
     "booking_url": "https://www.zaatarwzeit.net/KU/Home"
   }
+   ,
+  {
+    "AnnotationType": "Clinic",
+    "latitude": 29.163825497188054, 
+    "longitude": 48.09922388895184,  
+    "video_link": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+    "pdf_link": "https://github.com/MuhammadNadeemAUM/ARapp/blob/main/Pdfdocuments/Clinic.pdf",
+    "website_url": "https://www.aum.edu.kw/english/campus-life/well-being-and-inclusion/clinical-services",
+    "map_url": "https://github.com/MuhammadNadeemAUM/ARapp/blob/main/Pdfdocuments/Clinic.jpg",
+    "booking_url": "https://www.zaatarwzeit.net/KU/Home"
+  }
 ]
