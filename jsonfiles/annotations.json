@@ -54,11 +54,11 @@
   ,
   {
     "AnnotationType": "EngineeringE1",
-    "latitude": 29.164498954344406, 
-    "longitude": 48.10033144044795, 
+    "latitude": 29.164879191036427, 
+    "longitude": 48.10112227032977, 
     "video_link": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
     "pdf_link": "https://github.com/MuhammadNadeemAUM/ARapp/blob/main/Pdfdocuments/E2Labs.pdf",
-    "website_url": "https://www.aum.edu.kw/english/academics/college-of-engineering-and-technology",
+    "website_url": "https://www.aum.edu.kw/english/academics/majors-and-programs?college=engineering",
     "map_url": "https://github.com/MuhammadNadeemAUM/ARapp/blob/main/Pdfdocuments/ResearchAndInnovation.jpg",
     "booking_url": "https://www.aum.edu.kw/english/innovation-amp-research/highlights-and-achievements"
   }
