@@ -24,7 +24,7 @@
     "booking_url": "https://github.com/MuhammadNadeemAUM/ARapp/tree/main/Pdfdocuments/Sports_Centre.pdf"
   },
   {
-    "QRType": "PepperRobot",
+    "QRType": "Pepper Robot",
     "video_link": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
     "pdf_link": "https://github.com/MuhammadNadeemAUM/ARapp/blob/main/Pdfdocuments/PepperUserGuide.pdf",
     "website_url": "https://us.softbankrobotics.com/pepper",
