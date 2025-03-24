@@ -28,8 +28,7 @@
     "website_url": "https://www.aum.edu.kw/english/about-aum/governance-and-administration",
     "map_url": "https://github.com/MuhammadNadeemAUM/AUMOR-AR/blob/main/Pdfdocuments/Administration.jpg",
     "booking_url": "https://www.aum.edu.kw/english/contact-us"
-  }
-  ,
+  },
   {
     "AnnotationType": "4ResearchAndInnovation",
     "latitude": 29.16493835442824,  
@@ -39,8 +38,7 @@
     "website_url": "https://www.aum.edu.kw/english/innovation-and-research",
     "map_url": "https://github.com/MuhammadNadeemAUM/AUMOR-AR/blob/main/Pdfdocuments/ResearchAndInnovation.jpg",
     "booking_url": "https://www.aum.edu.kw/english/innovation-amp-research/highlights-and-achievements"
-  }
-   ,
+  },
   {
     "AnnotationType": "5EngineeringE2",
     "latitude": 29.164498954344406, 
@@ -50,8 +48,7 @@
     "website_url": "https://www.aum.edu.kw/english/academics/college-of-engineering-and-technology",
     "map_url": "https://github.com/MuhammadNadeemAUM/AUMOR-AR/blob/main/Pdfdocuments/ResearchAndInnovation.jpg",
     "booking_url": "https://www.aum.edu.kw/english/innovation-amp-research/highlights-and-achievements"
-  }
-  ,
+  },
   {
     "AnnotationType": "6EngineeringE1",
     "latitude": 29.164879191036427, 
@@ -61,8 +58,7 @@
     "website_url": "https://www.aum.edu.kw/english/academics/majors-and-programs?college=engineering",
     "map_url": "https://github.com/MuhammadNadeemAUM/AUMOR-AR/blob/main/Pdfdocuments/ResearchAndInnovation.jpg",
     "booking_url": "https://www.aum.edu.kw/english/innovation-amp-research/highlights-and-achievements"
-  }
-  ,
+  },
   {
     "AnnotationType": "7Business",
     "latitude": 29.16265854076925, 
@@ -72,9 +68,8 @@
     "website_url": "https://www.aum.edu.kw/english/academics/college-of-business-administration",
     "map_url": "https://github.com/MuhammadNadeemAUM/AUMOR-AR/blob/main/Pdfdocuments/ResearchAndInnovation.jpg",
     "booking_url": "https://www.aum.edu.kw/english/academics/majors-and-programs?college=business"
-  }  
-  ,
-{
+  },
+  {
     "AnnotationType": "8Subway",
     "latitude": 29.16635181107505,
     "longitude": 48.09950124612862, 
@@ -83,8 +78,7 @@
     "website_url": "https://www.subway.com.kw/home",
     "map_url": "https://github.com/MuhammadNadeemAUM/AUMOR-AR/blob/main/Pdfdocuments/ResearchAndInnovation.jpg",
     "booking_url": "https://www.youtube.com/watch?v=SrdkXqxNIoo"
-  }
-  ,
+  },
   {
     "AnnotationType": "9Capstone",
     "latitude": 29.162919494222454, 
@@ -94,8 +88,7 @@
     "website_url": "https://www.aum.edu.kw/english/innovation-amp-research/centers-amp-labs/engineering-research-and-innovation-center/capstone-center",
     "map_url": "https://github.com/MuhammadNadeemAUM/AUMOR-AR/blob/main/Pdfdocuments/Capstone.jpg",
     "booking_url": "https://www.aum.edu.kw/english/innovation-amp-research/centers-amp-labs/engineering-research-and-innovation-center/nanotechnology"
-  }
-   ,
+  },
   {
     "AnnotationType": "10Cultural Center",
     "latitude": 29.16397922207969, 
@@ -105,8 +98,7 @@
     "website_url": "https://www.aum.edu.kw/english/cultural-center/overview",
     "map_url": "https://github.com/MuhammadNadeemAUM/AUMOR-AR/blob/main/Pdfdocuments/Capstone.jpg",
     "booking_url": "https://www.aum.edu.kw/english/cultural-center/contact"
-  }
-   ,
+  },
   {
     "AnnotationType": "11Student Affair",
     "latitude": 29.165031709109385, 
@@ -116,8 +108,7 @@
     "website_url": "https://www.aum.edu.kw/english/students-affairs",
     "map_url": "https://github.com/MuhammadNadeemAUM/AUMOR-AR/blob/main/Pdfdocuments/Student%20Affairs.jpg",
     "booking_url": "https://www.aum.edu.kw/english/students-affairs-overview/contact-us"
-  }
-   ,
+  },
   {
     "AnnotationType": "12ACM",
     "latitude": 29.166601566462347, 
@@ -127,8 +118,7 @@
     "website_url": "https://www.acm.edu.kw/",
     "map_url": "https://github.com/MuhammadNadeemAUM/AUMOR-AR/blob/main/Pdfdocuments/ACM.jpg",
     "booking_url": "https://www.acm.edu.kw/contact-us/"
-  }
-   ,
+  },
   {
     "AnnotationType": "13Football Ground",
     "latitude": 29.165393103805542, 
@@ -138,8 +128,7 @@
     "website_url": "https://www.aum.edu.kw/english/campus-life/athletics-sports-center/outdoor-facilities",
     "map_url": "https://github.com/MuhammadNadeemAUM/AUMOR-AR/blob/main/Pdfdocuments/FootballGround.jpg",
     "booking_url": "https://www.acm.edu.kw/contact-us/"
-  }
-   ,
+  },
   {
     "AnnotationType": "14Food Court",
     "latitude": 29.16475270801351, 
@@ -149,8 +138,7 @@
     "website_url": "https://www.trolley.com.kw/",
     "map_url": "https://github.com/MuhammadNadeemAUM/AUMOR-AR/blob/main/Pdfdocuments/FootballGround.jpg",
     "booking_url": "https://www.zaatarwzeit.net/KU/Home"
-  }
-  ,
+  },
   {
     "AnnotationType": "15Robotics Center",
     "latitude": 29.164882422371846, 
@@ -160,8 +148,7 @@
     "website_url": "https://www.aum.edu.kw/english/innovation-amp-research/centers-amp-labs/engineering-research-and-innovation-center/robotics-and-ai-center",
     "map_url": "https://github.com/MuhammadNadeemAUM/AUMOR-AR/blob/main/Pdfdocuments/Robots.jpg",
     "booking_url": "https://www.zaatarwzeit.net/KU/Home"
-  }
-   ,
+  },
   {
     "AnnotationType": "16Clinic",
     "latitude": 29.163825497188054, 
@@ -171,8 +158,7 @@
     "website_url": "https://www.aum.edu.kw/english/campus-life/well-being-and-inclusion/clinical-services",
     "map_url": "https://github.com/MuhammadNadeemAUM/AUMOR-AR/blob/main/Pdfdocuments/Clinic.jpg",
     "booking_url": "https://www.zaatarwzeit.net/KU/Home"
-  }
-   ,
+  },
   {
     "AnnotationType": "17Tawteen",
     "latitude": 29.163825497188054, 
@@ -182,8 +168,7 @@
     "website_url": "https://www.aum.edu.kw/english/career-center",
     "map_url": "https://github.com/MuhammadNadeemAUM/AUMOR-AR/blob/main/Pdfdocuments/Clinic.jpg",
     "booking_url": "https://tawteenappointment.simplybook.me/v2/"
-  }
-  ,
+  },
   {
     "AnnotationType": "18Padel Court",
     "latitude": 29.164344, 
@@ -193,8 +178,7 @@
     "website_url": "https://www.aum.edu.kw/english/campus-life/athletics-sports-center/outdoor-facilities",
     "map_url": "https://github.com/MuhammadNadeemAUM/AUMOR-AR/blob/main/Pdfdocuments/PadelCourt.jpg",
     "booking_url": "https://www.aum.edu.kw/english/campus-life/athletics-sports-center/outdoor-facilities"
-  }
-   ,
+  },
   {
     "AnnotationType": "19Cinema",
     "latitude": 29.163834103140058, 
@@ -204,8 +188,7 @@
     "website_url": "https://www.aum.edu.kw/english/campus-life/athletics-sports-center/outdoor-facilities",
     "map_url": "https://github.com/MuhammadNadeemAUM/AUMOR-AR/blob/main/Pdfdocuments/Cinema.jpg",
     "booking_url": "https://myportal.aum.edu.kw/mod/forum/search.php?id=1&search=cinema"
-  }
-  ,
+  },
   {
     "AnnotationType": "20Tutoring Center",
     "latitude": 29.16276866543392,  
@@ -215,8 +198,7 @@
     "website_url": "https://www.aum.edu.kw/english/academics/academic-advancement-center/tutoring-center",
     "map_url": "https://github.com/MuhammadNadeemAUM/AUMOR-AR/blob/main/Pdfdocuments/Tutoringcenter.jpg",
     "booking_url": "https://myportal.aum.edu.kw/mod/data/edit.php?d=35"
-  }
-  ,
+  },
   {
     "AnnotationType": "21Writing Lab",
     "latitude": 29.163834103140058,  
@@ -226,8 +208,7 @@
     "website_url": "https://www.aum.edu.kw/english/academics/academic-advancement-center/writing-lab",
     "map_url": "https://github.com/MuhammadNadeemAUM/AUMOR-AR/blob/main/Pdfdocuments/WritingLab.jpeg",
     "booking_url": "https://aum.edu.kw/english/academics/academic-advancement-center/writing-lab#:~:text=writingLabAUM%40aum.edu.kw"
-  }
-  ,
+  },
   {
     "AnnotationType": "22Pret",
     "latitude": 29.16276866543392, 
@@ -237,8 +218,7 @@
     "website_url": "https://www.pret.com/en-KW",
     "map_url": "https://github.com/MuhammadNadeemAUM/AUMOR-AR/blob/main/Pdfdocuments/Pret.pdf",
     "booking_url": "https://www.pret.com/en-KW/contact-us"
-  }
-   ,
+  },
   {
     "AnnotationType": "23HPCLab",
     "latitude": 29.16276866543392, 
@@ -248,8 +228,7 @@
     "website_url": "https://www.aum.edu.kw/english/innovation-amp-research/centers-amp-labs/high-performance-computing",
     "map_url": "https://github.com/MuhammadNadeemAUM/AUMOR-AR/blob/main/Pdfdocuments/HPC.jpg",
     "booking_url": "Engineering-Research-Group-Unit@aum.edu.kw"
-  }
-,
+  },
   {
     "AnnotationType": "24 Car Park Gate C",
     "latitude": 29.16604, 
@@ -260,6 +239,4 @@
     "map_url": "https://github.com/MuhammadNadeemAUM/AUMOR-AR/blob/main/Pdfdocuments/Cultural-Center-Parking-Gate-C.jpeg",
     "booking_url": "https://www.aum.edu.kw/english/contact-us"
   }
-
-
 ]
