@@ -1,6 +1,6 @@
 [
   {
-    "QRType": "1Staff",
+    "QRType": "Staff",
     "video_link": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
     "pdf_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
     "website_url": "https://github.com/MuhammadNadeemAUM/AUMOR-AR/tree/main/Pdfdocuments/Sports_Centre.pdf",
@@ -8,7 +8,7 @@
     "booking_url": "https://github.com/MuhammadNadeemAUM/AUMOR-AR/tree/main/Pdfdocuments/Sports_Centre.pdf"
   },
   {
-    "QRType": "2DrNadeem",
+    "QRType": "DrNadeem",
     "video_link": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4",
     "pdf_link": "https://github.com/MuhammadNadeemAUM/AUMOR-AR/blob/main/Pdfdocuments/SmartDietDiary.pdf",
     "website_url": "https://kw.linkedin.com/in/dr-muhammad-nadeem-b3139613",
@@ -16,7 +16,7 @@
     "booking_url": "https://github.com/MuhammadNadeemAUM/AUMOR-AR/tree/main/Pdfdocuments/Sports_Centre.pdf"
   },
   {
-    "QRType": "3Oscilloscope",
+    "QRType": "Oscilloscope",
     "video_link": "https://www.youtube.com/watch?v=d54Ihd91Pfs",
     "pdf_link": "https://github.com/MuhammadNadeemAUM/AUMOR-AR/blob/main/Pdfdocuments/Oscilloscope-User-Manual.pdf",
     "website_url": "https://www.tek.com/en/products/oscilloscopes/tps2000",
@@ -24,7 +24,7 @@
     "booking_url": "https://www.tek.com/en/contact-tek"
   },
   {
-    "QRType": "4Pepper Robot",
+    "QRType": "Pepper Robot",
     "video_link": "https://www.youtube.com/watch?v=AFCf6ttXM08",
     "pdf_link": "https://github.com/MuhammadNadeemAUM/AUMOR-AR/main/Pdfdocuments/PepperUserGuide.pdf",
     "website_url": "https://us.softbankrobotics.com/pepper",
@@ -32,7 +32,7 @@
     "booking_url": "https://us.softbankrobotics.com/contact"
   },
   {
-    "QRType": "5Arduino Mega",
+    "QRType": "Arduino Mega",
     "video_link": "https://www.youtube.com/watch?v=rpmwYEqedlw",
     "pdf_link": "https://github.com/MuhammadNadeemAUM/AUMOR-AR/blob/main/Pdfdocuments/Arduinodatasheet.pdf",
     "website_url": "https://docs.arduino.cc/hardware/mega-2560/",
@@ -40,7 +40,7 @@
     "booking_url": "https://www.eitkw.com/product-category/arduino/"
   },
   {
-    "QRType": "6Raspberry Pi5",
+    "QRType": "Raspberry Pi5",
     "video_link": "https://www.youtube.com/watch?v=ZH6vfvRstfM",
     "pdf_link": "https://github.com/MuhammadNadeemAUM/AUMOR-AR/blob/main/Pdfdocuments/raspberry-pi-5-datasheet.pdf",
     "website_url": "https://www.raspberrypi.com/products/raspberry-pi-5/",
@@ -48,7 +48,7 @@
     "booking_url": "https://www.raspberrypi.com/contact/"
   },
   {
-    "QRType": "7FPGA",
+    "QRType": "FPGA",
     "video_link": "https://www.youtube.com/watch?v=rmsuWwZfjDs",
     "pdf_link": "https://github.com/MuhammadNadeemAUM/AUMOR-AR/tree/main/Pdfdocuments/Sports_Centre.pdf",
     "website_url": "https://www.intel.com/content/www/us/en/content-details/714190/cyclone-10-lp-fpga-product-table.html",
@@ -56,7 +56,7 @@
     "booking_url": "https://github.com/MuhammadNadeemAUM/AUMOR-AR/tree/main/Pdfdocuments/Sports_Centre.pdf"
   },
   {
-    "QRType": "8Fire Protection",
+    "QRType": "Fire Protection",
     "video_link": "https://www.youtube.com/watch?v=p3wlQafkskI",
     "pdf_link": "https://github.com/MuhammadNadeemAUM/AUMOR-AR/blob/main/Pdfdocuments/FireProtecion.pdf",
     "website_url": "https://www.amerex-fire.com/products/fire-extinguishers/portable-fire-extinguishers/abc/",
@@ -64,7 +64,7 @@
     "booking_url": "https://www.amerex-fire.com/about/contact-us/"
   },
   {
-    "QRType": "9Function Generator",
+    "QRType": "Function Generator",
     "video_link": "https://www.youtube.com/watch?v=qJdTYqQVERc",
     "pdf_link": "https://github.com/MuhammadNadeemAUM/AUMOR-AR/blob/main/Pdfdocuments/FunctionGeneratorUserManual.pdf",
     "website_url": "https://www.tek.com/en/products/signal-generators/arbitrary-function-generator/afg31000",
@@ -72,7 +72,7 @@
     "booking_url": "https://www.tek.com/en/buy/request-sales-contact"
   },
   {
-    "QRType": "10DC Power Supply",
+    "QRType": "DC Power Supply",
     "video_link": "https://www.youtube.com/watch?v=ndcCcMa9g-k",
     "pdf_link": "https://github.com/MuhammadNadeemAUM/AUMOR-AR/tree/main/Pdfdocuments/DC-Power-Supply-3606E-User-Manual",
     "website_url": "https://www.gwinstek.com/en-global/products/detail/SPD-3606",
@@ -80,7 +80,7 @@
     "booking_url": "https://www.gwinstek.com/en-global/products/detail/SPD-3606"
   },
   {
-    "QRType": "11Multimeter",
+    "QRType": "Multimeter",
     "video_link": "https://www.youtube.com/watch?v=eQdVsnzjpGY",
     "pdf_link": "https://github.com/MuhammadNadeemAUM/AUMOR-AR/tree/main/Pdfdocuments/Multimeter-GDM-8351-User-Manual",
     "website_url": "https://www.gwinstek.com/en-global/products/detail/GDM-8351/",
@@ -88,7 +88,7 @@
     "booking_url": "https://www.gwinstek.com/en-global/products/detail/GDM-8351/"
   },
   {
-    "QRType": "12Variable Capacitor",
+    "QRType": "Variable Capacitor",
     "video_link": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
     "pdf_link": "https://github.com/MuhammadNadeemAUM/AUMOR-AR/tree/main/Pdfdocuments/Variable-Capacitor",
     "website_url": "https://www.pasco.com/products/lab-apparatus/electricity-and-magnetism/electrostatics-and-electric-fields/basic-variable-capacitor?srsltid=AfmBOoqA9lhAVwtX6DTCQvyDfofH_C5aVnEIe-OwRxOWA_Uw5GhoZSfW#experiment-panel",
@@ -96,7 +96,7 @@
     "booking_url": "https://www.pasco.com/support/partners/kw"
   },
   {
-    "QRType": "13Arduino Due",
+    "QRType": "Arduino Due",
     "video_link": "https://www.youtube.com/watch?v=r1X700CkBdc",
     "pdf_link": "https://github.com/MuhammadNadeemAUM/AUMOR-AR/tree/main/Pdfdocuments/Arduino-Due-datasheet",
     "website_url": "https://docs.arduino.cc/hardware/due/",
@@ -104,7 +104,7 @@
     "booking_url": "https://www.eitkw.com/product-category/arduino/"
   },
   {
-    "QRType": "14DC Motor",
+    "QRType": "DC Motor",
     "video_link": "https://www.youtube.com/watch?v=QbQfBvrbbFg",
     "pdf_link": "https://github.com/MuhammadNadeemAUM/AUMOR-AR/tree/main/Pdfdocuments/DC-Motor-Datasheet.pdf",
     "website_url": "https://labvolt.festo.com/solutions/9_telecommunications/50-8211-00_dc_motor_generator",
@@ -112,7 +112,7 @@
     "booking_url": "https://labvolt.festo.com/Website/contact_us"
   },
   {
-    "QRType": "15Squirrel Cage Motor",
+    "QRType": "Squirrel Cage Motor",
     "video_link": "https://www.youtube.com/watch?v=oBCqLFL-_Sk",
     "pdf_link": "https://github.com/MuhammadNadeemAUM/AUMOR-AR/tree/main/Pdfdocuments/Squirrel-Cage-Motor-Datasheet.pdf",
     "website_url": "https://labvolt.festo.com/solutions/6_power_energy/50-8221-00_four_pole_squirrel_cage_induction_motor",
@@ -120,7 +120,7 @@
     "booking_url": "https://labvolt.festo.com/Website/contact_us"
   },
   {
-    "QRType": "16WoundRotor Induction Motor",
+    "QRType": "WoundRotor Induction Motor",
     "video_link": "https://www.youtube.com/watch?v=YlLeP5GbkDY",
     "pdf_link": "https://github.com/MuhammadNadeemAUM/AUMOR-AR/tree/main/Pdfdocuments/Wound-Rotor-Induction-Motor-Datasheet.pdf",
     "website_url": "https://labvolt.festo.com/solutions/6_power_energy/50-8231-00_three_phase_wound_rotor_induction_machine",
@@ -128,7 +128,7 @@
     "booking_url": "https://labvolt.festo.com/Website/contact_us"
   },
   {
-    "QRType": "17Tachometer",
+    "QRType": "Tachometer",
     "video_link": "https://www.youtube.com/watch?v=OgQu--Fj290",
     "pdf_link": "https://github.com/MuhammadNadeemAUM/AUMOR-AR/tree/main/Pdfdocuments/Tachometer-Usermanual.pdf",
     "website_url": "https://www.instrumart.com/products/24231/extech-rpm10-photocontact-tachometer-with-infrared-thermometer",
@@ -136,7 +136,7 @@
     "booking_url": "https://www.instrumart.com/contact-us"
   },
   {
-    "QRType": "18Fluxmeter",
+    "QRType": "Fluxmeter",
     "video_link": "https://www.youtube.com/watch?v=gaEE4-QjyQc",
     "pdf_link": "https://github.com/MuhammadNadeemAUM/AUMOR-AR/tree/main/Pdfdocuments/Flux-Meter-Datasheet.pdf",
     "website_url": "https://labvolt.festo.com/solutions/2_electronics/50-8463-00_flux_meter",
@@ -144,7 +144,7 @@
     "booking_url": "https://github.com/MuhammadNadeemAUM/AUMOR-AR/tree/main/Pdfdocuments/Sports_Centre.pdf"
   },
   {
-    "QRType": "19Inductive Load",
+    "QRType": "Inductive Load",
     "video_link": "https://www.youtube.com/watch?v=JaRloYP0KUQ",
     "pdf_link": "https://github.com/MuhammadNadeemAUM/AUMOR-AR/tree/main/Pdfdocuments/Inductive-Load-Datasheet.pdf",
     "website_url": "https://labvolt.festo.com/solutions/6_power_energy/50-8321-00_inductive_load",
@@ -152,7 +152,7 @@
     "booking_url": "https://labvolt.festo.com/Website/contact_us"
   },
   {
-    "QRType": "20Cyclone IV",
+    "QRType": "Cyclone IV",
     "video_link": "https://www.youtube.com/watch?v=hwnvghxc5nU&list=PLn__0BqzWEWPk0-VW3kEpMNA81sIbhj6n",
     "pdf_link": "https://github.com/MuhammadNadeemAUM/AUMOR-AR/tree/main/Pdfdocuments/cyclone4-handbook",
     "website_url": "https://www.intel.com/content/www/us/en/products/sku/210467/cyclone-iv-ep4ce115-fpga/specifications.html",
@@ -160,7 +160,7 @@
     "booking_url": "https://www.intel.com/content/www/us/en/support/programmable/support-resources/overview.html"
   },
   {
-    "QRType": "21Three Phase Wattmeter",
+    "QRType": "Three Phase Wattmeter",
     "video_link": "https://www.youtube.com/watch?v=_tcEEPwwEjU",
     "pdf_link": "https://github.com/MuhammadNadeemAUM/AUMOR-AR/tree/main/Pdfdocuments/Three-Phase-Wattmeter-Datasheet.pdf",
     "website_url": "https://labvolt.festo.com/solutions/6_power_energy/50-8441-20_three_phase_wattmeter",

@@ -1,6 +1,6 @@
 [
   {
-    "AnnotationType": "1Library",
+    "AnnotationType": "Library",
     "latitude": 29.163695277220807, 
     "longitude": 48.097903345961996,
     "video_link": "https://www.youtube.com/watch?v=TI8ZuuNj9Cg",
@@ -10,7 +10,7 @@
     "booking_url": "https://mrr.aum.edu.kw/booked/Web/?"
   },
   {
-    "AnnotationType": "2Sports",
+    "AnnotationType": "Sports",
     "latitude": 29.164330992151527, 
     "longitude": 48.09828983655695,
     "video_link": "https://www.youtube.com/watch?v=N-fTXAFKues&t=22s",
@@ -20,7 +20,7 @@
     "booking_url": "https://www.aum.edu.kw/english/campus-life/athletics-sports-center/outdoor-facilities"
   },
   {
-    "AnnotationType": "3Admin",
+    "AnnotationType": "Admin",
     "latitude": 29.165673345047725,  
     "longitude": 48.10007670807514, 
     "video_link": "https://www.youtube.com/watch?v=Cp8E4n3nz1o",
@@ -30,7 +30,7 @@
     "booking_url": "https://www.aum.edu.kw/english/contact-us"
   },
   {
-    "AnnotationType": "4ResearchAndInnovation",
+    "AnnotationType": "ResearchAndInnovation",
     "latitude": 29.16493835442824,  
     "longitude": 48.098022738208314, 
     "video_link": "https://www.youtube.com/watch?v=pNqu07FDWvA",
@@ -40,7 +40,7 @@
     "booking_url": "https://www.aum.edu.kw/english/innovation-amp-research/highlights-and-achievements"
   },
   {
-    "AnnotationType": "5EngineeringE2",
+    "AnnotationType": "EngineeringE2",
     "latitude": 29.164498954344406, 
     "longitude": 48.10033144044795, 
     "video_link": "https://www.youtube.com/watch?v=pNqu07FDWvA&t=58s",
@@ -50,7 +50,7 @@
     "booking_url": "https://www.aum.edu.kw/english/innovation-amp-research/highlights-and-achievements"
   },
   {
-    "AnnotationType": "6EngineeringE1",
+    "AnnotationType": "EngineeringE1",
     "latitude": 29.164879191036427, 
     "longitude": 48.10112227032977, 
     "video_link": "https://www.youtube.com/watch?v=-LMNW3QnunM",
@@ -60,7 +60,7 @@
     "booking_url": "https://www.aum.edu.kw/english/innovation-amp-research/highlights-and-achievements"
   },
   {
-    "AnnotationType": "7Business",
+    "AnnotationType": "Business",
     "latitude": 29.16265854076925, 
     "longitude": 48.09859864412184, 
     "video_link": "https://www.youtube.com/watch?v=cGm2t2GI5BQ",
@@ -70,7 +70,7 @@
     "booking_url": "https://www.aum.edu.kw/english/academics/majors-and-programs?college=business"
   },
   {
-    "AnnotationType": "8Subway",
+    "AnnotationType": "Subway",
     "latitude": 29.16635181107505,
     "longitude": 48.09950124612862, 
     "video_link": "https://www.youtube.com/watch?v=dV0m2lIdcbA",
@@ -80,7 +80,7 @@
     "booking_url": "https://www.youtube.com/watch?v=SrdkXqxNIoo"
   },
   {
-    "AnnotationType": "9Capstone",
+    "AnnotationType": "Capstone",
     "latitude": 29.162919494222454, 
     "longitude": 48.09805406985758, 
     "video_link": "https://www.youtube.com/shorts/NvOBPulTr2s",
@@ -90,7 +90,7 @@
     "booking_url": "https://www.aum.edu.kw/english/innovation-amp-research/centers-amp-labs/engineering-research-and-innovation-center/nanotechnology"
   },
   {
-    "AnnotationType": "10Cultural Center",
+    "AnnotationType": "Cultural Center",
     "latitude": 29.16397922207969, 
     "longitude": 48.1012526540626, 
     "video_link": "https://www.youtube.com/watch?v=-Su8fqGb3Fc",
@@ -100,7 +100,7 @@
     "booking_url": "https://www.aum.edu.kw/english/cultural-center/contact"
   },
   {
-    "AnnotationType": "11Student Affairs",
+    "AnnotationType": "Student Affairs",
     "latitude": 29.165031709109385, 
     "longitude": 48.10021334276605, 
     "video_link": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
@@ -110,7 +110,7 @@
     "booking_url": "https://www.aum.edu.kw/english/students-affairs-overview/contact-us"
   },
   {
-    "AnnotationType": "12ACM",
+    "AnnotationType": "ACM",
     "latitude": 29.166601566462347, 
     "longitude": 48.098804741958475, 
     "video_link": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
@@ -120,7 +120,7 @@
     "booking_url": "https://www.acm.edu.kw/contact-us/"
   },
   {
-    "AnnotationType": "13Football Ground",
+    "AnnotationType": "Football Ground",
     "latitude": 29.165393103805542, 
     "longitude": 48.099211401035674, 
     "video_link": "https://www.youtube.com/watch?v=ZrDR03anmTY",
@@ -130,7 +130,7 @@
     "booking_url": "https://www.acm.edu.kw/contact-us/"
   },
   {
-    "AnnotationType": "14Food Court",
+    "AnnotationType": "Food Court",
     "latitude": 29.16475270801351, 
     "longitude": 48.100341088203216,  
     "video_link": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
@@ -140,7 +140,7 @@
     "booking_url": "https://www.zaatarwzeit.net/KU/Home"
   },
   {
-    "AnnotationType": "15Robotics Center",
+    "AnnotationType": "Robotics Center",
     "latitude": 29.164882422371846, 
     "longitude": 48.09722452598229,  
     "video_link": "https://www.youtube.com/watch?v=AFCf6ttXM08&t=22s",
@@ -150,7 +150,7 @@
     "booking_url": "https://www.zaatarwzeit.net/KU/Home"
   },
   {
-    "AnnotationType": "16Clinic",
+    "AnnotationType": "Clinic",
     "latitude": 29.163825497188054, 
     "longitude": 48.09922388895184,  
     "video_link": "https://www.youtube.com/watch?v=SrdkXqxNIoo",
@@ -160,7 +160,7 @@
     "booking_url": "https://www.zaatarwzeit.net/KU/Home"
   },
   {
-    "AnnotationType": "17Tawteen",
+    "AnnotationType": "Tawteen",
     "latitude": 29.163825497188054, 
     "longitude": 48.09922388895184,  
     "video_link": "https://www.youtube.com/watch?v=XzXO6dYjun4&list=PLVTllUPxuWHB6l6IDn6zsbqmMkEPjXEFv",
@@ -170,7 +170,7 @@
     "booking_url": "https://tawteenappointment.simplybook.me/v2/"
   },
   {
-    "AnnotationType": "18Padel Court",
+    "AnnotationType": "Padel Court",
     "latitude": 29.164344, 
     "longitude": 48.098953,  
     "video_link": "https://www.youtube.com/watch?v=17DC_atNmkQ",
@@ -180,7 +180,7 @@
     "booking_url": "https://www.aum.edu.kw/english/campus-life/athletics-sports-center/outdoor-facilities"
   },
   {
-    "AnnotationType": "19Cinema",
+    "AnnotationType": "Cinema",
     "latitude": 29.163834103140058, 
     "longitude": 48.0978954576716,  
     "video_link": "https://www.instagram.com/aum_official/p/CV-Wy2Dog7G/",
@@ -190,7 +190,7 @@
     "booking_url": "https://myportal.aum.edu.kw/mod/forum/search.php?id=1&search=cinema"
   },
   {
-    "AnnotationType": "20Tutoring Center",
+    "AnnotationType": "Tutoring Center",
     "latitude": 29.16276866543392,  
     "longitude": 48.09800555073908,
     "video_link": "https://www.youtube.com/watch?v=VUdY6xGmw-Y",
@@ -200,7 +200,7 @@
     "booking_url": "https://myportal.aum.edu.kw/mod/data/edit.php?d=35"
   },
   {
-    "AnnotationType": "21Writing Lab",
+    "AnnotationType": "Writing Lab",
     "latitude": 29.163834103140058,  
     "longitude": 48.0978954576716,
     "video_link": "https://www.youtube.com/watch?v=H_6CDkehU_4",
@@ -210,7 +210,7 @@
     "booking_url": "https://aum.edu.kw/english/academics/academic-advancement-center/writing-lab#:~:text=writingLabAUM%40aum.edu.kw"
   },
   {
-    "AnnotationType": "22Pret",
+    "AnnotationType": "Pret",
     "latitude": 29.16276866543392, 
     "longitude": 48.09800555073908,
     "video_link": "https://www.youtube.com/watch?v=H_6CDkehU_4",
@@ -220,7 +220,7 @@
     "booking_url": "https://www.pret.com/en-KW/contact-us"
   },
   {
-    "AnnotationType": "23HPCLab",
+    "AnnotationType": "HPCLab",
     "latitude": 29.16276866543392, 
     "longitude": 48.09800555073908,
     "video_link": "https://www.youtube.com/watch?v=H_6CDkehU_4",
@@ -230,7 +230,7 @@
     "booking_url": "Engineering-Research-Group-Unit@aum.edu.kw"
   },
   {
-    "AnnotationType": "24Car-Park-Gate-C",
+    "AnnotationType": "Car-Park-Gate-C",
     "latitude": 29.166121342845575, 
     "longitude": 48.10086270065165,
     "video_link": "https://www.youtube.com/watch?v=H_6CDkehU_4",
@@ -240,7 +240,7 @@
     "booking_url": "https://www.aum.edu.kw/english/contact-us"
   },
   {
-    "AnnotationType": "25Test",
+    "AnnotationType": "Test",
     "latitude": 29.182172851392615, 
     "longitude": 48.117919934575326,
     "video_link": "https://www.youtube.com/watch?v=H_6CDkehU_4",
