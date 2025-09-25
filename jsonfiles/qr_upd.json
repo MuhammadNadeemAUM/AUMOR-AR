@@ -152,7 +152,7 @@
     "booking_url": "https://labvolt.festo.com/Website/contact_us"
   },
   {
-    "QRType": "Cyclone IV",
+    "QRType": "Cyclone IV FPGA",
     "video_link": "https://www.youtube.com/watch?v=hwnvghxc5nU&list=PLn__0BqzWEWPk0-VW3kEpMNA81sIbhj6n",
     "pdf_link": "https://github.com/MuhammadNadeemAUM/AUMOR-AR/tree/main/Pdfdocuments/cyclone4-handbook",
     "website_url": "https://www.intel.com/content/www/us/en/products/sku/210467/cyclone-iv-ep4ce115-fpga/specifications.html",
